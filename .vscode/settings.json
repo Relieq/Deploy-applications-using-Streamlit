@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "relieq",
+        "projectKey": "Relieq_Deploy-applications-using-Streamlit"
+    }
+}
