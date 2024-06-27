@@ -63,7 +63,7 @@ Giao diện ứng dụng được mô tả như hình sau:
 Sau đó, tất cả code sẽ được để trong file: ’Object_detection.py’. Cuối cùng chúng ta chạy lệnh
 ’streamlit run Object_detection.py’ để thử nghiệm và thu được kết quả như sau:
 
-<img src="images/Object_detection_result.png" alt="drawing" width="600"/>
+<img src="images/Object_detection_result.png" alt="drawing" width="700"/>
 
 ## 3. Chatbot
 Chatbot là ứng dụng được chú ý phát triển mạnh những năm gần đây, các ứng dụng chatbot chủ
