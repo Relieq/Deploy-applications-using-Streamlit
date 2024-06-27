@@ -89,4 +89,4 @@ chatbot.
 Sau khi hoàn thiện code vào file ’Chatbot.py’, chúng ta chạy lệnh: ’streamlit run Chatbot.py’ và
 thử nghiệm thu được kết quả như sau:
 
-<img src="images/Chatbot_result.png" alt="drawing" width="600"/>
+<img src="images/Chatbot_result.png" alt="drawing" width="800"/>
