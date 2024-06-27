@@ -15,6 +15,11 @@ Trong các phần tiếp theo, chúng ta tập trung vào phát triển các ứ
 - Object Detection
 - Chatbot
 
+**Lưu ý:**
+Ta sẽ cần cài các thư viện cần thiết thông qua các lệnh sau:
+- Thư viện streamlit: pip install streamlit
+- Thư viên cv2: pip install opencv-python
+
 ## 1. Word Correction:
 
 <img src="images/Levenshtein_distance.png" alt="drawing" width="600"/>
