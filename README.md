@@ -79,7 +79,7 @@ Ví dụ về chatbot được mô tả trong hình sau:
 
 Trong phần này, chúng ta xây dựng ứng dụng chatbot đơn giản dựa trên thư viện hugchat và
 streamlit. Đầu tiên chúng ta cần có tài khoảng hugging face để có quyền truy cập hugchat. Sau
-đó truy cập vào trang sau đây để gửi yêu cầu truy cập hugchat.
+đó truy cập vào [trang này](https://huggingface.co/chat/) để gửi yêu cầu truy cập hugchat.
 Sau khi được chấp nhận quyền truy cập, chúng ta xây dựng giao diện ứng dụng được mô tả như
 sau:
 
